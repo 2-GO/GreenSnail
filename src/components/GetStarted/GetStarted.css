@@ -1,0 +1,30 @@
+.blueText {
+    color: var(--blue);
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.subTitle {
+    color: black;
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+.inner-container {
+    gap: 1.5rem;
+    background: rgb(230, 230, 230);
+    padding: 2rem;
+    border-radius: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.spanText {
+    color: var(--blue);
+}
+
+.inner-container .button {
+    color: black;
+    border-radius: 10px;
+    box-shadow: var(--shadow);
+}

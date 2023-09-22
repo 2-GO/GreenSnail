@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Rancho Cucamonga, CA",
+      "price": "17,043",
+      "detail": "Japanese Tea Garden: Create a tranquil escape with carefully raked gravel, stone lanterns, and minimalist plantings, ideal for meditation and relaxation.",
+      "image": "./gs19.png"
+    },
+    {
+      "name": "Garden City, CA",
+      "price": "23,353",
+      "detail": "Mediterranean Retreat: Inspired by the coastal regions of southern Europe, this design incorporates warm colors, terracotta pots, and drought-resistant plants like lavender and rosemary.",
+      "image": "./gs22.png"
+    },
+    {
+      "name": "Ontario, CA",
+      "price": "27,853",
+      "detail": "Tuscan Villa: Transport yourself to the Italian countryside with warm colors, terracotta pots, and a mix of olive trees, herbs, and vines climbing up the walls.",
+      "image": "./gs17.png"
+    },
+    {
+      "name": "Irvine, CA",
+      "price": "12,043",
+      "detail": "Contemporary Urban: Clean, geometric shapes, concrete or paver walkways, and carefully chosen ornamental grasses create a sleek, modern look suitable for urban environments.",
+      "image": "./gs14.png"
+    },
+    {
+      "name": "Pasadena, CA",
+      "price": "16,353",
+      "detail": "Modern Minimalism: Clean lines, neutral tones, and a focus on simplicity characterize this design, with carefully chosen plants and hardscape elements creating an elegant, uncluttered look.",
+      "image": "./gs13.png"
+    },
+    {
+      "name": "Rancho Cucamonga, CA",
+      "price": "15,853",
+      "detail": "Desert Oasis: Perfect for arid regions, this design incorporates drought-tolerant plants like succulents and cacti, along with sand or gravel pathways, to create a serene and water-efficient landscape.",
+      "image": "./gs16.png"
+    }
+  ]
+  
